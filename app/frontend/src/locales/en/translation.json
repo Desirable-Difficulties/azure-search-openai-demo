@@ -1,6 +1,6 @@
 {
-    "pageTitle": "Azure OpenAI + AI Search",
-    "headerTitle": "Azure OpenAI + AI Search",
+    "pageTitle": "Azure + Friendship Admin",
+    "headerTitle": "Azure + Friendship Admin",
     "chat": "Chat",
     "qa": "Ask a question",
     "login": "Login",
@@ -37,19 +37,19 @@
     "chatEmptyStateTitle": "Chat with your data",
     "chatEmptyStateSubtitle": "Ask anything or try an example",
     "defaultExamples": {
-        "1": "What is included in my Northwind Health Plus plan that is not in standard?",
-        "2": "What happens in a performance review?",
-        "3": "What does a Product Manager do?",
-        "placeholder": "Type a new question (e.g. does my plan cover annual eye exams?)"
+        "1": "How did Richard Wells land Cheryl?",
+        "2": "What does section V of the MFA cover?",
+        "3": "Explain the Harmer V Wells small claims court case?",
+        "placeholder": "Does not liking pickles mean your a bad person?"
     },
     "askTitle": "Ask your data",
     "gpt4vExamples": {
-        "1": "Compare the impact of interest rates and GDP in financial markets.",
-        "2": "What is the expected trend for the S&P 500 index over the next five years? Compare it to the past S&P 500 performance",
-        "3": "Can you identify any correlation between oil prices and stock market trends?",
-        "placeholder": "Example: Does my plan cover annual eye exams?"
+        "1": "Is Cheryl Wells a good person?",
+        "2": "Does Richard Wells owe Kai an apology?",
+        "3": "Is Kai the second coming of Christ?",
+        "placeholder": "Example: How tall is Richard wells"
     },
-    "generatingAnswer": "Generating answer",
+    "generatingAnswer": "Give me one FUCKING second, I'm thinking...",
     "citationWithColon": "Citation:",
     "followupQuestions": "Follow-up questions:",
 
