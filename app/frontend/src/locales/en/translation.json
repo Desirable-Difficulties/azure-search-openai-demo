@@ -34,22 +34,22 @@
     },
     "developerSettings": "Developer settings",
 
-    "chatEmptyStateTitle": "What the FUCK do you want!?",
-    "chatEmptyStateSubtitle": "Seriously, why are you here?",
+    "chatEmptyStateTitle": "HELLO RICHARD",
+    "chatEmptyStateSubtitle": "YOU'VE BEEN SERVED!",
     "defaultExamples": {
-        "1": "Does being married to Richard Wells make Cheryl a bad person?",
-        "2": "Explain the MFA at a high level and each section in detail?",
-        "3": "Tell me about Harmer V Wells in detail?",
-        "placeholder": "Does not liking pickles mean your a bad person?"
+        "1": "What can you tell me about Cheryl?",
+        "2": "Tell me about the MFA.",
+        "3": "Walk me through the Harmer v Wells case.",
+        "placeholder": "Is Kai the second coming of Christ?"
     },
     "askTitle": "Ask your data",
     "gpt4vExamples": {
-        "1": "Is Cheryl Wells a good person?",
-        "2": "Does Richard Wells owe Kai an apology?",
-        "3": "Is Kai the second coming of Christ?",
-        "placeholder": "Example: How tall is Richard wells"
+        "1": "What can you tell me about Cheryl?",
+        "2": "Tell me about the MFA.",
+        "3": "Walk me through the Harmer v Wells case.",
+        "placeholder": "Is Kai the second coming of Christ?"
     },
-    "generatingAnswer": "One fucking second while I figure out how to dumb this down for you...",
+    "generatingAnswer": "One FUCKING second, I'm thinking...",
     "citationWithColon": "Citation:",
     "followupQuestions": "Follow-up questions:",
 
