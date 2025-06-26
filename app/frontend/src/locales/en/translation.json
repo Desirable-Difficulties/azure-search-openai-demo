@@ -1,6 +1,6 @@
 {
-    "pageTitle": "Azure + Friendship Admin",
-    "headerTitle": "Azure + Friendship Admin",
+    "pageTitle": "Not Mad, Just Disappointed",
+    "headerTitle": "Not Mad, Just Disappointed",
     "chat": "Chat",
     "qa": "Ask a question",
     "login": "Login",
@@ -34,12 +34,12 @@
     },
     "developerSettings": "Developer settings",
 
-    "chatEmptyStateTitle": "Chat with your data",
-    "chatEmptyStateSubtitle": "Ask anything or try an example",
+    "chatEmptyStateTitle": "What the FUCK do you want!?",
+    "chatEmptyStateSubtitle": "Seriously, why are you here?",
     "defaultExamples": {
-        "1": "How did Richard Wells land Cheryl?",
-        "2": "What does section V of the MFA cover?",
-        "3": "Explain the Harmer V Wells small claims court case?",
+        "1": "Does being married to Richard Wells make Cheryl a bad person?",
+        "2": "Explain the MFA at a high level and each section in detail?",
+        "3": "Tell me about Harmer V Wells in detail?",
         "placeholder": "Does not liking pickles mean your a bad person?"
     },
     "askTitle": "Ask your data",
@@ -49,7 +49,7 @@
         "3": "Is Kai the second coming of Christ?",
         "placeholder": "Example: How tall is Richard wells"
     },
-    "generatingAnswer": "Give me one FUCKING second, I'm thinking...",
+    "generatingAnswer": "One fucking second while I figure out how to dumb this down for you...",
     "citationWithColon": "Citation:",
     "followupQuestions": "Follow-up questions:",
 
